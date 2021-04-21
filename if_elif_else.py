@@ -4,7 +4,7 @@ if-elif-else loop
 '''
 
 '''
-# if usage
+# example # 1
 var1 = 25
 if (var1 > 15):
    print("I am inside if loop")
@@ -14,7 +14,7 @@ print ("I am outside if loop")
 '''
 
 '''
-# if-else usage
+# example # 2
 a = 4
 b = 4
 
@@ -25,6 +25,7 @@ else:
 '''
 
 '''
+# example # 3
 var1 = 0 # var1 = 100, 0, -6
 if var1:
    print ("1 - Got a true expression value")
@@ -45,6 +46,7 @@ print ("Done")
 '''
 
 '''
+# example # 4
 var = 500 #200 150 500 100
 if var == 200:
    print ("1 - Got a true expression value")
@@ -58,5 +60,4 @@ elif var == 100:
 else:
    print ("4 - Got a false expression value")
    print (var)
-   
 '''
