@@ -3,7 +3,7 @@ print(numbers[0])
 print(numbers[3])
 numbers[2] = 28
 print(numbers)
-print(numbers[9])
+#print(numbers[9])
 print(25 in numbers)
 print(30 not in numbers)
 
