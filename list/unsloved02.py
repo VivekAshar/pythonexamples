@@ -1,0 +1,1 @@
+Write a Python program to change the position of every n-th value with the (n+1)th in a list
