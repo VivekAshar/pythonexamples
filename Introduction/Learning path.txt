@@ -1,0 +1,5 @@
+https://www.sololearn.com/learning --> Python Core
+https://www.learnpython.org/
+https://www.py4e.com/lessons
+https://docs.python.org/3.9/
+https://cscircles.cemc.uwaterloo.ca/
