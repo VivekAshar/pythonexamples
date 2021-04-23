@@ -1,0 +1,12 @@
+Python learning
+
+IDE
+  Pycharm
+  Visual Stdio Code
+
+Notebook
+  Pupyter Notebook (Anaconda)
+  
+Online
+  Google Colab
+  onecompiler
