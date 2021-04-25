@@ -5,7 +5,7 @@ IDE
   Visual Stdio Code + Extensions
 
 Notebook
-  Pupyter Notebook (Anaconda)
+  Jupyter Notebook (Anaconda)
   
 Online
   Google Colab
