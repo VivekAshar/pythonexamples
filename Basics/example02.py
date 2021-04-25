@@ -17,3 +17,5 @@ Project - Python training
 Date - 26th Apr 2021
 Contact - srinivas.k@ltts.com
 '''
+
+print('Welcome to python programming') # this style is also accepted
