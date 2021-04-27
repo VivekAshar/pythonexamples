@@ -2,7 +2,7 @@
 
 import pytest
 
-@pytest.fixture
+@pytest.fixture  # decorator
 def input_total():
     total = 100
     return total

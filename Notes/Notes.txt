@@ -1,0 +1,22 @@
+Srinivas  -- Project A
+CI - CD
+
+me... another 50 team members
+
+Architect - checkin / push   5:00 pm
+
+50 push our code 4:40 - 4:55
+
+Architect all.py
+code quality check
+    errors in the code
+    warnings
+    code coverage
+        function level
+            all posible path of function
+        line-by-line
+            all lines of code
+
+
+
+
