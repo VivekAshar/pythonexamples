@@ -3,7 +3,7 @@ import pytest
 
 def test_sqrt():
    num = 36
-   assert math.sqrt(num) == 5
+   assert math.sqrt(num) == 6
 
 def test_square():
    num = 7

@@ -6,3 +6,5 @@ import pytest
 def input_total():
     total = 100
     return total
+
+@pytest.fixture

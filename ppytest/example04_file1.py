@@ -2,8 +2,8 @@ import pytest
 import example04
 
 
-def test_total_divisible_by_5(input_total):
-    assert input_total % 5 == 0
+def test_total_divisible_by_5(input_total): #test_method(input_method)
+    assert input_total % 5 == 0 # testing
 
 
 def test_total_divisible_by_10(input_total):
