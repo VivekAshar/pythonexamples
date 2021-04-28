@@ -18,4 +18,9 @@ Date - 26th Apr 2021
 Contact - srinivas.k@ltts.com
 '''
 
-print('Welcome to python programming')   # this style is also accepted
+print('Welcome to python programming')   # this is a print statement
+
+'''
+this are my comments
+
+'''
