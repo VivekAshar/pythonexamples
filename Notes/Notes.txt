@@ -20,3 +20,14 @@ code quality check
 
 
 
+EMP 1 has APPLE phone
+    Design is with Apple (US) Manufacture is in India, ONE MORE LOCATION MODEL(S)
+    CLASS                     OBJECT (S)                                 OBJECT
+EMP 2 has VIVO phone
+    Design is with VIVO (India) Manufactre us in India, ONE MORE LOCATION MODEL
+    CLASS                       OBJECT (S)                                OBJECT
+
+
+
+
+
