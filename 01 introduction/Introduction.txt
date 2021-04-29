@@ -10,3 +10,9 @@ Notebook
 Online
   Google Colab
   onecompiler
+
+cmd
+IDLE
+Pycharm
+VScode
+Jupyter
